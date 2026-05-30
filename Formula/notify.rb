@@ -1,8 +1,8 @@
 class Notify < Formula
   desc "Send and manage native macOS notifications from the command line"
   homepage "https://github.com/xBirahim/notify"
-  url "https://github.com/xBirahim/notify/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "252566cb46ea14209e66653062c94ac2fa38cf3d8b82b5f760a7bccfe11b27f7"
+  url "https://github.com/xBirahim/notify/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "8cbd662496c11419d2fe8250e053a1eac95733f606b6cefd277554c2d3c7913c"
   license "MIT"
   head "https://github.com/xBirahim/notify.git", branch: "main"
 
